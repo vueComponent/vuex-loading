@@ -1,5 +1,5 @@
 {
-  "name": "vuex-loading",
+  "name": "@ant-design-vue/vuex-loading",
   "version": "1.0.0",
   "title": "vuex-loading",
   "description": "A loading plugin like dva-loading",
