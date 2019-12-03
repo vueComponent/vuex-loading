@@ -1,0 +1,33 @@
+{
+  "name": "vuex-loading",
+  "version": "1.0.0",
+  "title": "vuex-loading",
+  "description": "A loading plugin like dva-loading",
+  "keywords": [
+    "vuex",
+    "loading",
+    "vuex-loading",
+    "vue",
+    "ant-design-vue",
+    "framework",
+    "frontend"
+  ],
+  "main": "lib/index.js",
+  "files": [
+    "lib",
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vueComponent/vuex-loading.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vueComponent/vuex-loading/issues"
+  },
+  "homepage": "https://github.com/vueComponent/vuex-loading",
+  "peerDependencies": {
+    "vue": ">=2.6.6",
+    "vue-template-compiler": ">=2.6.6"
+  }
+}
